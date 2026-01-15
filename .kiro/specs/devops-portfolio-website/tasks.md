@@ -156,7 +156,7 @@ Implementation of a modern, responsive static portfolio website using vanilla HT
   - Test responsive behavior across devices
   - _Requirements: 2.3, 3.1, 3.2, 3.3_
 
-- [ ] 7. Final checkpoint - Ensure all tests pass
+- [x] 7. Final checkpoint - Ensure all tests pass
   - Ensure all tests pass, ask the user if questions arise.
 
 ## Notes
