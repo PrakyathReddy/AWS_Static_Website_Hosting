@@ -53,7 +53,7 @@ Implementation of a modern, responsive static portfolio website using vanilla HT
   - **Property 1: External Link Behavior**
   - **Validates: Requirements 2.3**
 
-- [ ] 2.7 Write property test for semantic HTML structure
+- [x] 2.7 Write property test for semantic HTML structure
   - **Property 2: Semantic HTML Structure**
   - **Validates: Requirements 5.2**
 
