@@ -21,3 +21,4 @@ This project leverages:
 
 ## Add on's
 - Add a feature to track the number of visitors to my site
+- setup health checks
