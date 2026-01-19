@@ -9,6 +9,7 @@ This project leverages:
 4. Amazon Route53 for DNS management
 5. AWS Certificate Manager (ACM) for securing my site with SSL/TLS, and 
 6. AWS Web Application Firewall (WAF) to protect against common web exploits
+7. Route53 health checks on endpoint and CloudWatch Alarm in case Unhealthy 
 
 - Original CloudFront URL after setting up the distribution: https://d2tavlqvuofhhp.cloudfront.net/
 
@@ -21,4 +22,3 @@ This project leverages:
 
 ## Add on's
 - Add a feature to track the number of visitors to my site
-- setup health checks
